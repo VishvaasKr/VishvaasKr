@@ -2,7 +2,7 @@
 
 ## Hello there!
 
-I'm Vishvaas, flying in ocean!
+I'm Vishvaas, i like code, music & games!
 
 <img src="https://skillicons.dev/icons?i=git,html,js,md,nextjs,nodejs&perline=12" />
 <br />
