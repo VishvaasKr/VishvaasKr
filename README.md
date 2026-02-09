@@ -1,43 +1,12 @@
-<div align="center">
+I like cats, code and music
 
-## Hello there!
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-I'm Vishvaas, i like code, music & games!
+![](https://github-readme-stats.vercel.app/api?username=VishvaasKr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VishvaasKr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishvaasKr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://skillicons.dev/icons?i=git,html,js,md,nextjs,nodejs&perline=12" />
-<br />
-<img src="https://skillicons.dev/icons?i=discord,discordjs,github,npm,vscode&perline=12" />
-<br />
-    <table>
-        <tr>
-            <td style="padding=0;width=50%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=VishvaasKr&hide=contribs&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-            </td>
-            <td style="padding=0;width=50%;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishvaasKr&hide=commits&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-            </td>
-        </tr>
-    </table>
-</div>
-<!--END_SECTION:activity-->
+---
+[![](https://visitcount.itsvg.in/api?id=VishvaasKr&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!--
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishvaas06/Vishvaas06/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishvaas06/Vishvaas06/output/github-contribution-grid-snake.svg">
-  <img width=850 alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vishvaas06/Vishvaas06/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
-
-<div align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y">
-  <img width=815 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y&hide_title=1&limit=3" alt="Data Card for Spotify">
-</a>
-</div>
-
-###
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
